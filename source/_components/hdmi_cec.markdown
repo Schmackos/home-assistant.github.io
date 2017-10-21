@@ -41,13 +41,13 @@ $ ln -s /path/to/your/installation/of/cec /path/to/your/venv/lib/python3.4/site-
 For the default virtual environment of a [HASSbian Image for Raspberry Pi](/getting-started/installation-raspberry-pi-image/) the command would be as follows.
 
 ```bash
-$ ln -s /usr/local/lib/python3.4/dist-packages/cec /srv/homeassistant/lib/python3.4/site-packages
+$ ln -s /usr/local/lib/python3.5/dist-packages/cec /srv/homeassistant/lib/python3.4/site-packages
 ```
 
 For the default virtual environment of a [Raspberry Pi All-In-One installation](/getting-started/installation-raspberry-pi-all-in-one/) the command would be as follows.
 
 ```bash
-$ ln -s /usr/local/lib/python3.4/site-packages/cec /srv/homeassistant/homeassistant_venv/lib/python3.4/site-packages
+$ ln -s /usr/local/lib/python3.5/site-packages/cec /srv/homeassistant/homeassistant_venv/lib/python3.4/site-packages
 ```
 
 For the default virtual environment of a [Manual installation](/getting-started/installation-raspberry-pi/) the command would be as follows.
